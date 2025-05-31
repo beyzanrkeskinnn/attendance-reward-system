@@ -35,8 +35,8 @@ This project is an **Education Participation Reward System** built using **Stell
 
 1️⃣ **Clone the repository:**
 ```bash
-git clone https://github.com/<your-username>/stellar-education-reward-dapp.git
-cd stellar-education-reward-dapp
+git clone  https://github.com/beyzanrkeskinnn/attendance-reward-system.git
+cd attendance-reward-frontend
 ```
 
 2️⃣ **Install frontend dependencies:**
