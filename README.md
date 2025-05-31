@@ -1,7 +1,5 @@
-# 🎓 Stellar-Soroban Education Reward DApp
-
-This project is an **Education Participation Reward System** built using **Stellar and Soroban**. It automatically rewards users who participate in educational events with tokens and collects feedback from participants.
-
+# 🎓 Stellar-Soroban Attendance Reward System
+This project is an Education Participation Reward System built using Stellar and Soroban. It automatically rewards users who participate in educational events with tokens and collects feedback from participants.
 ## 🚀 Features
 
 - **Next.js** based modern frontend with TypeScript
